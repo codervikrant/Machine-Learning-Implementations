@@ -1,6 +1,6 @@
 # Machine-learning-implementations
 
-##REGRESSION --------------------------------------------
+REGRESSION --------------------------------------------
 Simple Linear Regression
 
 Multiple Linear Regression
